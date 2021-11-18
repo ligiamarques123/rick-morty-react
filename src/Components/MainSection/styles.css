@@ -77,7 +77,21 @@
         font-size: 14px;
         text-align: center;
  }
-    .Main-container img{
+ .main-container img{
     width: 90%;
+}
+
+}
+@media (max-width: 515px){
+.main-data-container h1{
+    font-size: 44px;
+}
+
+.main-data-container  p, .main-data-container button {
+    font-size: 14px;
+    text-align: center;
+}
+.Main-container img{
+width: 90%;
 }
 }
